@@ -1,5 +1,5 @@
 ---
-title: "Solución Ejercicio"
+title: "Solución Ejercicio. Análisis Exploratorio de Datos"
 author: "Marcelino Martínez Sober"
 date: "2023-10-11"
 output:
